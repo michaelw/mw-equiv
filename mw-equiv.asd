@@ -3,8 +3,8 @@
 (asdf:defsystem mw-equiv
   :version "0.1.2"
   :description "Extensible object equivalence protocol"
-  :maintainer "Michael Weber <michaelw+equiv@foldr.org>"
-  :author "Michael Weber <michaelw+equiv@foldr.org>"
+  :maintainer "Michael Weber <mw+equiv@magneticflux.net>"
+  :author "Michael Weber <mw+equiv@magneticflux.net>"
   :licence "BSD-like"
   :serial t
   :components
